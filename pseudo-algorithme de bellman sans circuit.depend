@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1612978783 source:/home/abdelatif/Desktop/pseudo-algorithme-de-bellman-sans-circuit/main.c
+	<stdio.h>
+	<stdlib.h>
+
